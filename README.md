@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era do NBB - Novo Basquete do Brasil
 
 ## 🚀 Introdução
 
@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Guilherme Ferreira e o NBB: o novo astro do Basquete ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O atleta Guilherme Ferreira detalha como ser o melhor jogador de basquete no mundo atual e todas as suas técnicas e dicas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ Chatgpt e I-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Template da DIO, texto chatgpt, foto do meu Guilherme
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um video ótimo com boas dicas de basquete.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi íncrivel aprender um pouco mais sobre essas novas ferramentas.
 ```
 
 ### Exemplos e Insigths
